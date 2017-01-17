@@ -1,0 +1,20 @@
+{
+  "name":"mbed_I2CEeprom",
+  "description":"Provide simple access to I2C EEPROM chiles like Microchip's 24LC range or AMTELS AT24C range.",
+  "keywords":"mbed,eeprom,i2c",
+  "authors":
+  {
+    "name": "Angel Merino",
+    "email": "amerino@voxel.at",
+    "maintainer": true
+  },
+  "url": "http://www.voxel.at",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/voxel-dot-at/mbed_I2CEeprom.git"
+  },
+  "license": "Apache-2.0",
+  "frameworks": ["mbed"],
+  "platforms": ["ststm32"]
+}
