@@ -15,6 +15,6 @@
     "url": "https://github.com/voxel-dot-at/mbed_I2CEeprom.git"
   },
   "license": "Apache-2.0",
-  "frameworks": ["mbed"],
+    "frameworks": ["mbed", "voxel-mbed" ],
   "platforms": ["ststm32"]
 }
